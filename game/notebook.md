@@ -21,6 +21,11 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ../..' goes up two levels
 - and so on...
 
+Investigation Update:
+
+Security cameras caught movement near the market entrance.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../market"'
 
 
 
@@ -36,5 +41,8 @@ Remember that you can use multiple '../' to go up multiple levels:
 
 ## Notes
 *Use this space to record your findings and deductions...*
+
+El bibliotecario esta en shops
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
