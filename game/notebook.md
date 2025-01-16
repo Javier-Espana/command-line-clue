@@ -11,6 +11,19 @@ This seems like a good place to start our investigation. Remember to:
 - Use 'ls' to list the contents of each location
 - Use 'cat' to read any text files you find
 
+New Clue:
+
+Check the bakery in the shops.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
+
+
+
+
 ## Suspects
 - [ ] The Doctor
 - [ ] The Chef
