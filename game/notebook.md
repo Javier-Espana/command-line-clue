@@ -37,16 +37,26 @@ Remember that you can use multiple '../' to go up multiple levels:
 - 'cd ../..' goes up two levels
 - and so on...
 
+New Clue:
+
+Go back and check the science lab in the school.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
+
 
 ## Suspects
 - [ ] The Doctor
 - [X] The Chef
-- [ ] The Police Officer
+- [X] The Police Officer
 
 ## Weapons
 - [ ] Kitchen Knife
 - [X] Old Key
-- [ ] Heavy Book
+- [X] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*
