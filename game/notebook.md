@@ -27,16 +27,25 @@ Security cameras caught movement near the market entrance.
 
 Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../market"'
 
+New Clue:
+
+Go to the offices in the town hall.
+
+Hint: You'll need to go back several directories to reach this location.
+Remember that you can use multiple '../' to go up multiple levels:
+- 'cd ..'    goes up one level
+- 'cd ../..' goes up two levels
+- and so on...
 
 
 ## Suspects
 - [ ] The Doctor
-- [ ] The Chef
+- [X] The Chef
 - [ ] The Police Officer
 
 ## Weapons
 - [ ] Kitchen Knife
-- [ ] Old Key
+- [X] Old Key
 - [ ] Heavy Book
 
 ## Notes
